@@ -1,0 +1,8 @@
+# Never commit files with real data
+*.xlsx
+*.xls
+*.csv
+
+# Local config overrides (if you keep a local copy with real IDs)
+config.local.gs
+secrets.gs
