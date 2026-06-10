@@ -49,8 +49,8 @@ Google Sheet (общая)
 
 ### 1. Создай таблицу
 
-Создай новую **Google Таблицу** скопируй эту таблицу через Файл-Создать копию
-https://docs.google.com/spreadsheets/d/16qKjhrJZzfqZ-qPVH3sqlcZZYcB5ilYC4bQ80HpGmqk/edit?usp=sharing
+Создай новую **Google Таблицу** скопируй эту таблицу через Файл- Создать копию [Таблица]([https://script.google.com](https://docs.google.com/spreadsheets/d/16qKjhrJZzfqZ-qPVH3sqlcZZYcB5ilYC4bQ80HpGmqk/edit?usp=sharing))
+
  
 
 ### 2. Создай Apps Script проекты
