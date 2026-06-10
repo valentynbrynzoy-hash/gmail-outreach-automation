@@ -51,9 +51,7 @@ Google Sheet (общая)
 
 Создай новую **Google Таблицу** (не импортируй xlsx напрямую).
 
-В репозитории лежит `SPREADSHEET_TEMPLATE.xlsx` — он нужен только как визуальный образец: названия листов, заголовки колонок, форматирование. Структуру воссоздавай руками в Google Sheets по [`SPREADSHEET_STRUCTURE.md`](SPREADSHEET_STRUCTURE.md).
-
-> Импорт xlsx в Google Sheets не гарантирует корректную работу — формулы, именованные листы и форматы ячеек нужно настраивать с нуля.
+В репозитории лежит `SPREADSHEET_TEMPLATE.xlsx` — он нужен только как визуальный образец: названия листов, заголовки колонок, форматирование. Структуру воссоздавай руками в Google Sheets по [`SPREADSHEET_STRUCTURE.md`]([SPREADSHEET_STRUCTURE.md](https://docs.google.com/spreadsheets/d/16qKjhrJZzfqZ-qPVH3sqlcZZYcB5ilYC4bQ80HpGmqk/edit?usp=sharing)).
 
 ### 2. Создай Apps Script проекты
 
